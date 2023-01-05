@@ -9,6 +9,7 @@ import {
   Header,
 } from "./Containers";
 import { Cta, Brand, Navbar } from "./Components";
+import "./App.css";
 
 const App = () => {
   return (
